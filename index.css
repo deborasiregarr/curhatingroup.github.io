@@ -168,26 +168,35 @@ h1{
     background-color: #c3e0fe;
 }
 .rw img{
-    width: 50%;
+    width: 55%;
 }
 .tf img{
-    width: 75%;
+    width: 80%;
 }
 .an img{
     width: 50%;
 }
 .cs img{
-    width: 55%;
+    width: 50%;
 }
 .ek img{
     width: 60%;
 }
 .pa img{
-    width: 70%;
+    width: 73%;
 }
 .rp img{
     width: 80%;
 }
 ul li{
     font-family: gagalin;
+}
+.cn img{
+    width: 60%;
+}
+.rn img{
+    width: 55%;
+}
+.ss img{
+    width: 60%;
 }
