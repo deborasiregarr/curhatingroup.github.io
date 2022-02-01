@@ -6,17 +6,17 @@
     text-decoration: none;
     margin: 0px;
     padding: 0px;
-    font-family: 'gagalin';
+    font-family: "gagalin";
 }
 body{
     background-color: #cfe4fa;
 }
 .navbar{
-    font-family: gagalin;
+    font-family: "gagalin";
     font-size: large;
 }
 .title{
-    font-family: gagalin;
+    font-family: "gagalin";
 }
 .header{
     background-image: url("bg_blur.jpg");
@@ -31,13 +31,14 @@ body{
     color: #000;
 }
 .container h3{
-    font-family: "Gagalin-Regular";
+    font-family: "gagalin";
 }
 .container h4{
     text-align: center;
 }
 h2{
     text-align: center;
+    font-family: gagalin;
 }
 p{
     text-align: justify;
@@ -179,7 +180,7 @@ h1{
     width: 80%;
 }
 ul li{
-    /* font-family: gagalin; */
+    font-family: gagalin;
 }
 .cn img{
     width: 60%;
@@ -195,5 +196,4 @@ ul li{
 }
 .lirik p{
     text-align: center;
-    font-size: medium;
 }
