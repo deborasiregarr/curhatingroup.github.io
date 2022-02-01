@@ -1,15 +1,19 @@
 @font-face {
-    font-family: "Gagalin-Regular";
+    font-family: "gagalin";
     src: url('Gagalin-Regular.ttf');
 }
 *{
     text-decoration: none;
     margin: 0px;
     padding: 0px;
-    font-family: gagalin;
+    font-family: 'gagalin';
 }
 body{
     background-color: #cfe4fa;
+}
+.navbar{
+    font-family: gagalin;
+    font-size: large;
 }
 .title{
     font-family: gagalin;
@@ -23,7 +27,7 @@ body{
     padding-left: 0;
 }
 .container h2{
-    font-family: "Gagalin-Regular";
+    font-family: "gagalin";
     color: #000;
 }
 .container h3{
@@ -42,7 +46,7 @@ p{
 .title{
     text-align: center;
     font-weight: bold;
-    font-family: gagalin;
+    font-family: "gagalin";
 }
 .expert{
     background-color: #c3e0fe;
@@ -134,21 +138,7 @@ ul li{
     padding-top: 50px;
     color: #000;
 }
-.footer{
-    width: 100%;
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    background-color: whitesmoke;
-}
-.footer-section{
-    width: 20%;
-    margin: 0 auto;
-}
-.footer-section a{
-    color: #000;
-}
+
 h4{
     font-weight: 800;
     font-size: 30px;
@@ -189,7 +179,7 @@ h1{
     width: 80%;
 }
 ul li{
-    font-family: gagalin;
+    /* font-family: gagalin; */
 }
 .cn img{
     width: 60%;
@@ -199,4 +189,11 @@ ul li{
 }
 .ss img{
     width: 60%;
+}
+.copyright{
+    font-family: gagalin;
+}
+.lirik p{
+    text-align: center;
+    font-size: medium;
 }

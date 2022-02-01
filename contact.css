@@ -9,9 +9,11 @@ body{
     text-decoration: none;
     margin: 0px;
     padding: 0px;
-    font-family: 'gagalin';
 }
 .title{
+    font-family: gagalin;
+}
+.navbar{
     font-family: gagalin;
 }
 .header{
@@ -96,5 +98,8 @@ p{
     font-family: 'Times New Roman', Times, serif;
 }
 h4{
+    font-family: gagalin;
+}
+.copyright{
     font-family: gagalin;
 }
