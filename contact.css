@@ -9,12 +9,14 @@ body{
     text-decoration: none;
     margin: 0px;
     padding: 0px;
+    font-family: "gagalin";
 }
 .title{
     font-family: gagalin;
 }
 .navbar{
     font-family: gagalin;
+    font-size: large;
 }
 .header{
     background-image: url("bg_blur.jpg");

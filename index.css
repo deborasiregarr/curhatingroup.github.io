@@ -200,3 +200,17 @@ ul li{
 /* .footer{
     background-color: rgb(241, 240, 240);
 } */
+.footer a{
+    color: #000;
+}
+.footer a:link{
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+}
+.footer a:hover{
+    color: #c3e0fe;
+}
+.footer li:hover{
+    color: #c3e0fe;
+}
