@@ -98,6 +98,8 @@ p{
 }
 .footer p{
     font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
 }
 h4{
     font-family: gagalin;
