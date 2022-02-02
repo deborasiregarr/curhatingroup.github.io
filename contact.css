@@ -53,7 +53,7 @@ body{
 .grafologi{
     text-transform: uppercase;
 } */
-p{
+.contact p{
     border: solid;
     background-color: #c3e0fe;
     border-radius: 10px;
@@ -100,10 +100,25 @@ p{
     font-family: 'Times New Roman', Times, serif;
     background-color: whitesmoke;
     border-color: whitesmoke;
+    /* text-align: justify; */
 }
 h4{
     font-family: gagalin;
 }
 .copyright{
     font-family: gagalin;
+}
+.footer a{
+    color: #000;
+}
+.footer a:link{
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+}
+.footer a:hover{
+    color: #c3e0fe;
+}
+.footer li:hover{
+    color: #c3e0fe;
 }
