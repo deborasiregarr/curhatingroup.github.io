@@ -219,9 +219,10 @@ ul li{
 }
 .layanan img{
     float: center;
-    width: 30%;
+    width: 50%;
 }
 .perkenalan img{
     width: 100%;
     float: center;
+    margin: auto;
 }
