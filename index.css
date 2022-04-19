@@ -72,7 +72,7 @@ p{
 .expert{
     border-radius: 10px;
     margin-top: 4%;
-    margin-right: 50px;
+    /* margin-right: 50px; */
     margin-bottom: 70px; 
     padding: 30px; 
 }
@@ -217,12 +217,16 @@ ul li{
 .footer li:hover{
     color: #c3e0fe;
 }
-.layanan img{
+/* .layanan img{
     float: center;
+    width: 30%;
     width: 50%;
-}
+} */
 .perkenalan img{
     width: 100%;
     float: center;
     margin: auto;
+}
+.liputan{
+    margin-left: 10%;
 }
