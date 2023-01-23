@@ -230,3 +230,11 @@ ul li{
 .liputan{
     margin-left: 10%;
 }
+.copyright a{
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+}
+.copyright :hover{
+    color: #091353;
+}
